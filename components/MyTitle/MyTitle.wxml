@@ -1,0 +1,15 @@
+<!-- 首页的头部 -->
+<view class="my_header">
+	<navigator class="logo">
+		<image class="logo_img" src="../../icon/logo2.png" style="width:140rpx;heigt：60rpx" mode="widthFix"></image>
+	</navigator>
+	<view class="search_icon">
+		<image src="../../icon/search.png" mode="widthFix" style="width:60rpx;heigt：44rpx"></image>
+	</view>
+	<view class="user_icon">
+		<image src="../../icon/user.png" style="width:54rpx;heigt：60rpx" mode="widthFix"></image>
+	</view>
+	<view class="down_app">
+		下载app
+	</view>
+</view>
